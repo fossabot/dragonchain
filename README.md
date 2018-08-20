@@ -1,4 +1,6 @@
 # Dragonchain
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fnigelsimpson%2Fdragonchain.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fnigelsimpson%2Fdragonchain?ref=badge_shield)
+
 
 The Dragonchain platform attempts to simplify integration of real business applications onto a blockchain. Providing features such as easy integration, protection of business data, fixed 5 second blocks, currency agnosticism, and interop features, Dragonchain shines a new and interesting light on blockchain technology.
 
@@ -242,3 +244,6 @@ distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
 KIND, either express or implied. See the Apache License for the specific
 language governing permissions and limitations under the Apache License.
 ```
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fnigelsimpson%2Fdragonchain.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fnigelsimpson%2Fdragonchain?ref=badge_large)
